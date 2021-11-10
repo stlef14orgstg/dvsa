@@ -1,0 +1,7 @@
+{
+  "UserPoolClientId": "5od1tvesg4e2dro14togm9jn0c",
+  "UserPoolId": "ap-southeast-1_aG02BF13t",
+  "IdentityPoolId": "ap-southeast-1:8f907235-3446-4342-a696-2350dd1efa32",
+  "ServiceEndpoint": "https://kyckh588f4.execute-api.ap-southeast-1.amazonaws.com/stephanlefrancois",
+  "ServerlessDeploymentBucketName": "dvsa-stephanlefrancois-serverlessdeploymentbucket-1udxidjne1n94"
+}
