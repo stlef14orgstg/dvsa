@@ -14,6 +14,8 @@ import decimal
     # 500: cancelled
     # 600: rejected
 
+AWS_ACCESS_KEY_ID="ASIAYXXXXXXXXXXXXXXX"
+
 def lambda_handler(event, context):
     # Helper class to convert a DynamoDB item to JSON.
     class DecimalEncoder(json.JSONEncoder):
