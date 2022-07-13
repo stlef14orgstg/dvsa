@@ -18,7 +18,8 @@
   "keywords": [
     "DVSA",
     "serverless",
-    "vulnerable"
+    "vulnerable",
+    "test app"
   ],
   "author": "Tal Melamed",
   "license": "GPL-3.0",
